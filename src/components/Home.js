@@ -85,17 +85,7 @@ export const Home = () => {
             <p className="textsmall">Rishabh Jha</p>
             <p>(cofounder,tech(CTO))</p>
         </div>
-        <div className="founder">
-            <img src={gaurav} alt=""/>
-            <p className="textsmall">Gaurav Jha</p>
-            <p>(cofounder(CDO))</p>
-        </div>
        
-        <div className="technical">
-            <img src={karan} alt=""/>
-            <p className="textsmall">karan dhar</p>
-            <p>(cofounder,marketing(CMO))</p>
-        </div>
         <div className="copy">
             Copyright &copy; 2027 letzKhelo All rights reserved
         </div>
